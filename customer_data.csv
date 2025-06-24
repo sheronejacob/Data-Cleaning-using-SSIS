@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,signup_date,city
+101,John,Doe,john@example.com,1234567890,1/1/2019,Toronto
+102,Jane,Smith,jane@example.com,,2/10/2019,Montreal
+103,John,Doe,john@example.com,1234567890,1/1/2019,Toronto
+104,Emily,Jones,emily@sample.org,987654321,3/15/2019,Vancouver
+105,Michael,Brown,michael@sample.org,4445556666,3/20/2019,Calgary
